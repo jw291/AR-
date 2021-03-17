@@ -1,5 +1,6 @@
 # ARCircles : AR동아리 전시 및 홍보 어플리케이션
 2019 Echo Project 우수작 나재원/김혜령/최재욱 <br />
+*Asset은 미포함하여 업로드하였습니다.
 
 ![image](https://user-images.githubusercontent.com/46628101/111526294-e7994c80-87a1-11eb-8b6c-31b1ad555393.png)
 
